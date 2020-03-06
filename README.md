@@ -1,2 +1,2 @@
-# COMP90041 Project C
+# Java Foundation
 
